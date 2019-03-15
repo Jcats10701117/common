@@ -1,3 +1,5 @@
 **/.idea/
 **/lib/
+**/tests/
+**/out/production
 *.iml
